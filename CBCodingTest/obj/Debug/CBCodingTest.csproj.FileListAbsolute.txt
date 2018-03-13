@@ -1,0 +1,14 @@
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\CBCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\lakhw\onedrive\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\CBCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\bin\Debug\ConsoleApp2.exe.config
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\bin\Debug\ConsoleApp2.exe
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\bin\Debug\ConsoleApp2.pdb
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\obj\Debug\CBCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\obj\Debug\CBCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\obj\Debug\ConsoleApp2.exe
+C:\Users\lakhw\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp2\CBCodingTest\obj\Debug\ConsoleApp2.pdb

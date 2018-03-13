@@ -1,0 +1,4 @@
+﻿AverageLength,aA,average_length_of_words_starting_with_a.txt
+CountTotal_eE,bB,count_of_e_in_words_starting_with_b.txt
+LongestLength,abc,longest_words_starting_with_abc.txt
+CountSequence_aA,cC, count_of_sequence_of_words_starting_withs_c_and_a.txt
